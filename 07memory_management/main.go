@@ -4,7 +4,7 @@
 	LETS TALK ABOUT MEMORY MANAGEMENT
 
 	In golang we dont have to do memory management on our own
-	go get this shit done by itself
+	Go get this shit done by itself
 
 	do to do memory management we have two ways
 

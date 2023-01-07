@@ -28,7 +28,7 @@ func main() {
 		WE ARE NOW GONNA USE ANOTHER LIBRARY
 		"Format" lets it will format the time
 
-		so it will give output like
+		so it will give output like(it is when i am writing this notes)
 		12-30-2022
 
 	*/
@@ -42,7 +42,7 @@ func main() {
 	/*
 		NOTE:-
 		BY GIVING A FORMAT IN Format which is ""
-		you  have to write exact thing to get the output replaced by that current time
+		you  have to write exact thing{01-02-2006 15:04:05 Monday} to get the output replaced by that current time
 
 		for example agar humne Monday likha hai toh output mein Monday replace ho jayega uss din ki date se
 		and same thing with the time also ki agar humne current time to change karna hai toh humne

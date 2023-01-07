@@ -19,7 +19,7 @@ func main() {
 	/*
 		WE CANT USE ANY INPUT FROM USER AS ANOTHER TYPE BECUASE IT
 		IS ALWAYS IN STRING FORMAT
-		SO WE NEED TO CONVERISON TOPIC
+		SO WE NEED TO CONVERt the format
 	*/
 	conversion, err := strconv.ParseFloat(strings.TrimSpace(result), 64) /// we user error comma syntax here also
 	/*
@@ -40,8 +40,8 @@ func main() {
 		fmt.Println(conversion + 1)
 		/*
 			now you are thinking that conversion is now done
-			you gonna enter a sting and it gonna convert to a string
-			but wait that is no the exactly case going on here
+			you gonna enter a string and it gonna convert to a desired type you want
+			but wait that is not the exactly case going on here
 
 			when you give a buffer to the terminal what gonna happen is
 			"<your given string > /n" you will get /n with the string

@@ -29,7 +29,7 @@ func main() {
 	fmt.Printf("TYPE OF The STRING : %T \n", input)
 	/// the value from user end up being string
 	/*
-		input from user always gonna return ini the format of string
+		input from user always gonna return in the format of string
 		so if we want a number how we gonna do that
 
 		so we will use conversion for that you can check in next moddule
